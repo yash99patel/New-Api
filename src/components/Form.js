@@ -175,6 +175,7 @@ const Form = () => {
                     </div>
 
                     <button type="button" onClick={() => handleSubmit()}>Sumbit</button>
+                    <button type="button">Reset</button>
                     <button type="button" style={{ marginLeft: 8 }} onClick={() => handleNavigat()}>Go to Table</button>
                 </div>
             </form>
